@@ -1,0 +1,27 @@
+.marginTop{
+			width:100%;
+			margin-top:;
+}
+
+.FormContent{
+			width:40% !important;
+			margin:0px auto;
+			background-color:Yellow;
+			padding: 20px;
+		}
+
+.SignInForm{
+			width:50% !important;
+			margin:0px auto;
+			padding: 20px;
+}
+
+
+.bg-sucess{
+			background-color:green !important;
+}
+.margin-top-50{
+				margin-top: 50px !important}
+
+.padding-20{
+			padding: 40px !important; padding-left: 60px !important}
